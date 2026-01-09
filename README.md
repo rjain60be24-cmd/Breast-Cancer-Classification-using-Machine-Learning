@@ -1,24 +1,5 @@
 # Breast-Cancer-Classification-using-Machine-Learning
 
-## 📌 Software Engineering Academic Project
-
-This repository contains a **B.Tech level Software Engineering project** focused on applying **Machine Learning techniques** to classify breast cancer tumors as **Malignant or Benign** using clinical diagnostic data.
-
-The project follows a **complete software development lifecycle (SDLC)** including problem analysis, system design, implementation, evaluation, and documentation.
-
----
-
-## 👨‍💻 Team Members
-- **Raghav Jain**  
-  BE – COE, Thapar Institute of Engineering & Technology  
-  📧 rjain60_be24@thapar.edu  
-
-- **Vansh Sachdeva**  
-  BE – COE, Thapar Institute of Engineering & Technology  
-  📧 vsachdeva60_be24@thapar.edu  
-
----
-
 ## 📖 Introduction
 Breast cancer is one of the most common life-threatening diseases among women worldwide. Early and accurate diagnosis significantly improves survival rates.
 
