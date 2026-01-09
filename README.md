@@ -109,17 +109,5 @@ The system acts as a **decision-support tool** to assist medical professionals b
 - DataFlair ML Projects  
 - Academic Research Resources
 
----
-
-## 📝 Academic Information
-**Submitted To:**  
-Dr. Nitin Arora  
-Assistant Professor, Dept. of CSE  
-TIET, Patiala  
-
-**Course:** Software Engineering / Machine Learning Project  
-**Program:** B.Tech – Computer Engineering (COE)
-
----
 
 ⭐ *If you find this project useful, feel free to star the repository!*
