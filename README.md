@@ -1,7 +1,5 @@
 # Breast-Cancer-Classification-using-Machine-Learning
 
-# Breast Cancer Classification using Machine Learning
-
 ## 📌 Software Engineering Academic Project
 
 This repository contains a **B.Tech level Software Engineering project** focused on applying **Machine Learning techniques** to classify breast cancer tumors as **Malignant or Benign** using clinical diagnostic data.
